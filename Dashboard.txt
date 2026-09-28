@@ -10,4 +10,10 @@ CDD
 Try Elden Ring
 
 --->Trying pull requests
-Check out the code man
+Implemented functionality to enter:
+
+- Student Name
+- Register Number
+- Department
+- Marks
+
