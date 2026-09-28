@@ -8,3 +8,13 @@ CDD
 
 ----->Written by collaborator
 Try Elden Ring
+
+--->Trying pull requests
+Implemented functionality to enter:
+
+- Student Name
+- Register Number
+- Department
+- Marks
+
+hello
